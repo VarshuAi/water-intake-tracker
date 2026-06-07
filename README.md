@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Log hydration metrics towards daily target caps.
+  name: water-intake-tracker version: 1.0 type: Repository author: VarshuAi description: >   Log hydration metrics towards daily target caps. primary_tech: CSS
 primary_tech: CSS
 ```
 
